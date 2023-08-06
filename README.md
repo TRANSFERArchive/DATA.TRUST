@@ -1,4 +1,4 @@
-# BETA
+# DATA TRUST
 Proof-of-concept prototype for the TRANSFER Archive
 
 Project Description:
