@@ -2,7 +2,7 @@
 Proof-of-concept prototype for a Decentralized Artist Archive and Cultural Value Exchange Cooperative
 
 # Project Description:
-We are prototyping the TRANSFER Data Trust as a non-profit cooperative trust, with automated organizational governance models, to be established as a Data DAO on FVM. 
+We are prototyping the TRANSFER Data Trust as a non-profit cooperative trust, with automated organizational governance models, to be established as a Data DAO. 
 
 A decade of experimental artistic studio practice has been developed and exhibited at TRANSFER gallery, in over 80 global exhibitions, featuring the work of 65 international artists, resulting in hundreds of time-based media artworks. Many have been acquired in the first edition by museums and public institutions. The value we have built together represents a significant set of assets, with demonstrated financial and historical value, which are at risk of loss. In addition, through the past 10 years of programming TRANSFER has prototyped different solidarity models for artists to create equity and reverse the extractive power dynamics of the contemporary art market.
 
